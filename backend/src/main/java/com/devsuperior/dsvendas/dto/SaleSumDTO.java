@@ -24,6 +24,6 @@ public class SaleSumDTO implements Serializable {
 
 	public Double getSum() {
 		return sum;
-	}
+	}	
 
 }
